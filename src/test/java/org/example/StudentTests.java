@@ -44,5 +44,3 @@ public class StudentTests {
         assertEquals(95.0, student.getGrade(), 0.0);
     }
 }
-
-//test commit 3
