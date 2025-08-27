@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa754f57-8d3f-447f-aa0e-728017f07765" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa754f57-8d3f-447f-aa0e-728017f07765" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +26,9 @@
     "assignee": "aidanbeck"
   }
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="74793281-b14a-4df1-b696-165e8457b941" />
+  </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/aidanbeck/software-dev-course-oop-1.git",
@@ -47,6 +47,7 @@
   "keyToString": {
     "Application.ClassroomManager.executor": "Run",
     "JUnit.All in software-dev-course-oop-1.executor": "Run",
+    "JUnit.StudentTests.executor": "Run",
     "JUnit.TeacherTests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -57,8 +58,9 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/mikel/projects/java-new-curriculum/software-dev-course-oop-2/pom.xml",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
