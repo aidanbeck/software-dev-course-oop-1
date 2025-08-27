@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa754f57-8d3f-447f-aa0e-728017f07765" name="Changes" comment="" />
+    <list default="true" id="fa754f57-8d3f-447f-aa0e-728017f07765" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/StudentTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/StudentTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +30,12 @@
   }
 }]]></component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="74793281-b14a-4df1-b696-165e8457b941" />
+    <option name="defaultAccountId" value="6266add2-5e75-4670-b4ec-ce63d4a2bd11" />
   </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/aidanbeck/software-dev-course-oop-1.git",
-    "accountId": "74793281-b14a-4df1-b696-165e8457b941"
+    "accountId": "6266add2-5e75-4670-b4ec-ce63d4a2bd11"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
